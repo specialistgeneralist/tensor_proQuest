@@ -3,8 +3,8 @@
     {
         "tensorName": "Recent News (ProQuest)",
         "tensorShape": [
-            920,
-            10 
+            876,
+            10
         ],
         "tensorPath": "https://raw.githubusercontent.com/specialistgeneralist/tensor_proQuest/main/embeddings.tsv",
         "metadataPath": "https://raw.githubusercontent.com/specialistgeneralist/tensor_proQuest/main/metadata.tsv"
